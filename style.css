@@ -26,6 +26,10 @@ i
     height: 50px;
     width: 50px;
 }
+.keywords 
+{
+    display: none;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
