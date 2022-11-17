@@ -795,11 +795,13 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #212121!important;
+
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
+    text-decoration: underline;
 }
 
 .ltc-white {
@@ -862,7 +864,7 @@ h4 {
     }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
     .b-parallax {
         background-attachment: scroll;
     }
